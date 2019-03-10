@@ -44,7 +44,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>title</string>
 			<key>message</key>
