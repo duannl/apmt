@@ -46,41 +46,111 @@
 			<key>enable</key>
 			<true/>
 			<key>title</key>
-			<string>title</string>
+			<string>Harp Instrument FREE</string>
 			<key>message</key>
-			<string>message</string>
+			<string>Make awesome beats and music with Harp Instrument! Download NOW! Completely FREE!</string>
 			<key>appId</key>
-			<string>11111</string>
+			<string>1444254897</string>
 			<key>bundleId</key>
-			<string>a.test</string>
+			<string>com.harp.free</string>
 			<key>scheme</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
-			<string></string>
+			<string>Create incredible music instantly!</string>
 			<key>message</key>
-			<string></string>
+			<string>Play the drum of your dream! Download NOW! Completely FREE!</string>
 			<key>appId</key>
-			<string></string>
+			<string>1441404870</string>
 			<key>bundleId</key>
-			<string></string>
+			<string>com.dholak.free</string>
 			<key>scheme</key>
 			<string></string>
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
-			<string></string>
+			<string>Gamelan Saron Xylophone FREE</string>
 			<key>message</key>
-			<string></string>
+			<string>Make awesome beats and music with Gamelan Saron Xylophone! Download NOW! Completely FREE!</string>
 			<key>appId</key>
-			<string></string>
+			<string>1441320454</string>
 			<key>bundleId</key>
+			<string>com.saron.free</string>
+			<key>scheme</key>
 			<string></string>
+		</dict>
+		<dict>
+			<key>enable</key>
+			<true/>
+			<key>title</key>
+			<string>Ultrasonic Pest Repeller FREE</string>
+			<key>message</key>
+			<string>Say goodbye to rats, mice, bugs, roaches &amp; insects ONCE &amp; FOR ALL! Protect your family from insect bites &amp; pesky rodents! Download NOW!</string>
+			<key>appId</key>
+			<string>1453514044</string>
+			<key>bundleId</key>
+			<string>com.antiMosquitoRepellent.free</string>
+			<key>scheme</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>enable</key>
+			<true/>
+			<key>title</key>
+			<string>Dhol Drum FREE</string>
+			<key>message</key>
+			<string>Play the dhol drum of your dream! Download NOW! Completely FREE!</string>
+			<key>appId</key>
+			<string>1441434525</string>
+			<key>bundleId</key>
+			<string>com.dholbeats.free</string>
+			<key>scheme</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>enable</key>
+			<true/>
+			<key>title</key>
+			<string>You Laugh You Lose Challenge FREE</string>
+			<key>message</key>
+			<string>A fun app where the challenge is that you can&apos;t smile while during watching funny videos. Can you beat it? Just download the app and take up the challenge!</string>
+			<key>appId</key>
+			<string>1450079773</string>
+			<key>bundleId</key>
+			<string>com.youlaughyoulosechallenge.free</string>
+			<key>scheme</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>enable</key>
+			<true/>
+			<key>title</key>
+			<string>My Kegel Pal</string>
+			<key>message</key>
+			<string>The easiest and most effective way to strengthen your pelvic floor muscles!!! Download NOW! Completely FREE!</string>
+			<key>appId</key>
+			<string>1447324862</string>
+			<key>bundleId</key>
+			<string>com.mykegelpal.free</string>
+			<key>scheme</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>enable</key>
+			<true/>
+			<key>title</key>
+			<string>My Lean Body Mass Calculator FREE</string>
+			<key>message</key>
+			<string>A simple &amp; beautiful app that lets you calculate your Lean Body Mass. Download NOW! Completely FREE!</string>
+			<key>appId</key>
+			<string>1454163119</string>
+			<key>bundleId</key>
+			<string>com.leanbodymasscalculator.free</string>
 			<key>scheme</key>
 			<string></string>
 		</dict>
