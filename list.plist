@@ -26,7 +26,7 @@
 			<key>bundleId</key>
 			<string>com.hangdrum.free</string>
 			<key>scheme</key>
-			<string></string>
+			<string>hangdrumfree</string>
 		</dict>
 		<dict>
 			<key>enable</key>
@@ -40,7 +40,7 @@
 			<key>bundleId</key>
 			<string>com.hangdrum.pro</string>
 			<key>scheme</key>
-			<string></string>
+			<string>hangdrumpro</string>
 		</dict>
 		<dict>
 			<key>enable</key>
@@ -54,7 +54,7 @@
 			<key>bundleId</key>
 			<string>com.harp.free</string>
 			<key>scheme</key>
-			<string></string>
+			<string>harpfree</string>
 		</dict>
 		<dict>
 			<key>enable</key>
@@ -68,7 +68,7 @@
 			<key>bundleId</key>
 			<string>com.dholak.free</string>
 			<key>scheme</key>
-			<string></string>
+			<string>dholakfree</string>
 		</dict>
 		<dict>
 			<key>enable</key>
@@ -82,7 +82,7 @@
 			<key>bundleId</key>
 			<string>com.saron.free</string>
 			<key>scheme</key>
-			<string></string>
+			<string>saronfree</string>
 		</dict>
 		<dict>
 			<key>enable</key>
@@ -96,7 +96,7 @@
 			<key>bundleId</key>
 			<string>com.antiMosquitoRepellent.free</string>
 			<key>scheme</key>
-			<string></string>
+			<string>antiMosquitoRepellentfree</string>
 		</dict>
 		<dict>
 			<key>enable</key>
@@ -110,7 +110,7 @@
 			<key>bundleId</key>
 			<string>com.dholbeats.free</string>
 			<key>scheme</key>
-			<string></string>
+			<string>dholbeatsfree</string>
 		</dict>
 		<dict>
 			<key>enable</key>
@@ -124,7 +124,7 @@
 			<key>bundleId</key>
 			<string>com.youlaughyoulosechallenge.free</string>
 			<key>scheme</key>
-			<string></string>
+			<string>youlaughyoulosechallengefree</string>
 		</dict>
 		<dict>
 			<key>enable</key>
@@ -138,7 +138,7 @@
 			<key>bundleId</key>
 			<string>com.mykegelpal.free</string>
 			<key>scheme</key>
-			<string></string>
+			<string>mykegelpalfree</string>
 		</dict>
 		<dict>
 			<key>enable</key>
@@ -152,7 +152,7 @@
 			<key>bundleId</key>
 			<string>com.leanbodymasscalculator.free</string>
 			<key>scheme</key>
-			<string></string>
+			<string>leanbodymasscalculatorfree</string>
 		</dict>
 		<dict>
 			<key>enable</key>
