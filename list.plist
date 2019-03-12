@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>enable</key>
-	<true/>
+	<false/>
 	<key>validInterval</key>
 	<integer>0</integer>
 	<key>currentTimeURL</key>
