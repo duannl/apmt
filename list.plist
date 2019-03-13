@@ -16,7 +16,7 @@
 	<array>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>Hang Drum FREE</string>
 			<key>message</key>
@@ -28,7 +28,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>Create incredible music instantly!</string>
 			<key>message</key>
@@ -40,7 +40,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>Harp Instrument FREE</string>
 			<key>message</key>
@@ -52,7 +52,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>Create incredible music instantly!</string>
 			<key>message</key>
@@ -64,7 +64,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>Gamelan Saron Xylophone FREE</string>
 			<key>message</key>
@@ -76,7 +76,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>Ultrasonic Pest Repeller FREE</string>
 			<key>message</key>
@@ -88,7 +88,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>Dhol Drum FREE</string>
 			<key>message</key>
@@ -100,7 +100,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>You Laugh You Lose Challenge FREE</string>
 			<key>message</key>
@@ -112,7 +112,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>My Kegel Pal</string>
 			<key>message</key>
@@ -124,7 +124,7 @@
 		</dict>
 		<dict>
 			<key>enable</key>
-			<false/>
+			<true/>
 			<key>title</key>
 			<string>My Lean Body Mass Calculator FREE</string>
 			<key>message</key>
